@@ -1,0 +1,16 @@
+D:\Projects\C#\عملي\Final Project\JAHS\bin\Debug\JAHS.exe.config
+D:\Projects\C#\عملي\Final Project\JAHS\bin\Debug\JAHS.exe
+D:\Projects\C#\عملي\Final Project\JAHS\bin\Debug\JAHS.pdb
+D:\Projects\C#\عملي\Final Project\JAHS\obj\Debug\JAHS.csproj.AssemblyReference.cache
+D:\Projects\C#\عملي\Final Project\JAHS\obj\Debug\JAHS.AcademicAffairs.resources
+D:\Projects\C#\عملي\Final Project\JAHS\obj\Debug\JAHS.JAHS.resources
+D:\Projects\C#\عملي\Final Project\JAHS\obj\Debug\JAHS.Login.resources
+D:\Projects\C#\عملي\Final Project\JAHS\obj\Debug\JAHS.Properties.Resources.resources
+D:\Projects\C#\عملي\Final Project\JAHS\obj\Debug\JAHS.Reports.resources
+D:\Projects\C#\عملي\Final Project\JAHS\obj\Debug\JAHS.Settings.resources
+D:\Projects\C#\عملي\Final Project\JAHS\obj\Debug\JAHS.StaffManagement.resources
+D:\Projects\C#\عملي\Final Project\JAHS\obj\Debug\JAHS.StudentAffairs.resources
+D:\Projects\C#\عملي\Final Project\JAHS\obj\Debug\JAHS.csproj.GenerateResource.cache
+D:\Projects\C#\عملي\Final Project\JAHS\obj\Debug\JAHS.csproj.CoreCompileInputs.cache
+D:\Projects\C#\عملي\Final Project\JAHS\obj\Debug\JAHS.exe
+D:\Projects\C#\عملي\Final Project\JAHS\obj\Debug\JAHS.pdb
